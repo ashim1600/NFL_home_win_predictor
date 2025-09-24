@@ -1,0 +1,6 @@
+game_id,play_id,offense_team,defense_team,quarter,down,yards_gained,is_pass
+2023_01,1,DET,KC,1,1,12,1
+2023_01,2,KC,DET,1,1,5,0
+2023_02,1,PHI,NE,1,1,8,1
+2023_03,1,SEA,DET,1,1,15,1
+2023_04,1,KC,JAX,1,1,7,0

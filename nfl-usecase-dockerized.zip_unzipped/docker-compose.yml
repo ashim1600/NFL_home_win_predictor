@@ -1,0 +1,12 @@
+services:
+  nfl-app:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      RUN_PIPELINE_ON_START: "true"
+      PORT: "8501"
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./models:/app/models

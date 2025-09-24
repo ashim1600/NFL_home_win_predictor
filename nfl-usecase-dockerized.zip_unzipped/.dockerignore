@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+.DS_Store
+.git/
+.gitignore
+build/
+dist/
+*.ipynb_checkpoints
